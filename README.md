@@ -1,2 +1,2 @@
 # iGrow
-A prototype hydrophic embedded device.
+A prototype hydrophic embedded device, programmed in Arduino IDE
